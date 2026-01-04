@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js" defer></script>
+</head>
+<body>
+    <div id="libraryContainer"></div>
+
+    <button id="newBook">New Book</button>
+
+    <div id="popupOverlay">
+
+        <div id="popupForm">
+            <button id="closePopupBtn">X</button>
+
+            <form>
+                <label for="title">The Title</label>
+                <input type="text" id="titleInput" name="title" required>
+
+                <label for="authName">Author Name</label>
+                <input type="text" id="authNameInput" name="authName" required>
+
+                <label for="pages">Number Of Pages</label>
+                <input type="number" id="pagesInput" name="pages" required>
+
+                <label for="read">Read Status</label>
+                <input type="text" id="readInput" name="read" required>
+
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
