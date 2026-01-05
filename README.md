@@ -2,6 +2,11 @@
 
 A simple library application to store and manage your book collection.
 
+<div align="center">
+  <img src="library.png" alt="Description of Image 1" width="50%"/>
+  <img src="libraryForm.png" alt="Description of Image 2" width="50%"/>
+</div>
+
 ## Live Demo
 
 [View Live Demo](https://thechosen-1.github.io/Library/)
