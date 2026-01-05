@@ -3,8 +3,8 @@
 A simple library application to store and manage your book collection.
 
 <div align="center">
-  <img src="library.png" alt="Description of Image 1" width="50%"/>
-  <img src="libraryForm.png" alt="Description of Image 2" width="50%"/>
+  <img src="library.png" alt="Description of Image 1" width="300"/>
+  <img src="libraryForm.png" alt="Description of Image 2" width="300"/>
 </div>
 
 ## Live Demo
